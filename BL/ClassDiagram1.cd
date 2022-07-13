@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="BL.Models.CollectorBL" BaseTypeListCollapsed="true">
+    <Position X="0.5" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEAAAABAAAIAAAAAgAAAIAAkAQAAQAAQBAAA=</HashCode>
+      <FileName>Models\CollectorBL.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BL.Models.ColorsBL" BaseTypeListCollapsed="true">
+    <Position X="2.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQAAAAIAAAAAAAAAAAAAAAAAAAAICEQAAAAAAAAAA=</HashCode>
+      <FileName>Models\ColorsBL.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="BL.Models.Email">
+    <Position X="2.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAIAgAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Email.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BL.Models.OrdersBL" BaseTypeListCollapsed="true">
+    <Position X="4.5" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQABAQAgBAAAAAgAAAAAAAAAAAAAAAAAQGAAAAAAAAA=</HashCode>
+      <FileName>Models\OrdersBL.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="BL.Models.ProductBL" BaseTypeListCollapsed="true">
+    <Position X="0.5" Y="4.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAgAAAAAAAAAAAAAQAjAAAAAAAAAQAAAAAAAAAA=</HashCode>
+      <FileName>Models\ProductBL.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="BL.Models.ProductGroupsBL" BaseTypeListCollapsed="true">
+    <Position X="2.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIBAIAAAAAAAAAABIAAAAAAAAAAAAAAQAAAQAAAAAA=</HashCode>
+      <FileName>Models\ProductGroupsBL.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="BL.Models.ProductModelsBL" BaseTypeListCollapsed="true">
+    <Position X="4.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAACAABAAAQAAAAAAAAAABIAAQAAAAAAAAAQ=</HashCode>
+      <FileName>Models\ProductModelsBL.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="BL.Models.ProductsOnOrderBL" BaseTypeListCollapsed="true">
+    <Position X="6.25" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAABAAACAAAAAAAIEAAAQAAAAAAAAgA=</HashCode>
+      <FileName>Models\ProductsOnOrderBL.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="BL.Models.sendEmail">
+    <Position X="4.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAA=</HashCode>
+      <FileName>Models\sendEmail.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BL.Models.StorageBL" BaseTypeListCollapsed="true">
+    <Position X="6.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAAAAAAAAIAgEAAABAAAAAAAAAAQAAABAAAAAA=</HashCode>
+      <FileName>Models\StorageBL.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
